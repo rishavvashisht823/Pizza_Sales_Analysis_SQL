@@ -1,0 +1,1 @@
+This repository contains a SQL project made by Rishav Vashisht. The project analyses pizza sales using SQL. There are several questions answered using SQL that will help us improve the sales of Pizza Parlour.
